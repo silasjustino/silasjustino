@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 <p>🔭 Graduating in Software Engineering.</p>
-<p>🧩 Currently learning about <b>HTML, CSS, JavaScript and Node.js</b> @rocketseat.com.br</p>
+<p>🧩 Currently learning about <b>Web Development</b> @rocketseat.com.br</p>
 <p>💬 Ask me about anything 🇧🇷</p>
 <p>📫 How to reach me? silasjustino99@gmail.com</p>
 <p>⚡ Fun Fact: Paratrooper in Brazilian Army</p>
