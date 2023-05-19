@@ -17,10 +17,6 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-
-
-
-
 </p>
 <br />
 
@@ -30,11 +26,3 @@
 <a href="https://www.instagram.com/sjustino_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 <br />
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasjustino&layout=compact"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=silasjustino"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=silasjustino&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
