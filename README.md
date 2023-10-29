@@ -1,5 +1,6 @@
 ## 💫 About Me
 <p>🔭 Graduating in Software Engineering.</p>
+<p>🧩 Currently working with <b>Oracle APEX</b> </p>
 <p>🧩 Currently learning about <b>Flutter</b> </p>
 <p>📫 How to reach me? silasjustino99@gmail.com</p>
 <br />
