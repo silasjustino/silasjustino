@@ -2,7 +2,7 @@
 <p>🔭 Graduating in Software Engineering.</p>
 <p>🧩 Currently working with <b>Oracle APEX</b> </p>
 <p>🧩 Currently learning about <b>Flutter</b> and <b>Node.js</b></p>
-<p>🧩 Developing my first game! Lasers, Bugs and Bots! <a href="https://by-sjustino.itch.io/">Check the demo now!</a></p>
+<p>🧩 Developing my first game! Lasers, Bugs and Bots! <a href="https://by-sjustino.itch.io/" target="_blank">Check the demo now!</a></p>
 <p>📫 How to reach me? silasjustino99@gmail.com</p>
 <br />
 
@@ -16,8 +16,8 @@
 
 ## 👥 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/sjustino/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/sjustino_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://by-sjustino.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sjustino/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/sjustino_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://by-sjustino.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 <br />
