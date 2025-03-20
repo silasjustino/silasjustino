@@ -2,7 +2,7 @@
 <p>🔭 Graduating in Software Engineering.</p>
 <p>🧩 Currently working with <b>Oracle APEX</b> </p>
 <p>🧩 Currently learning about <b>Flutter</b> and <b>Node.js</b></p>
-<p>🧩 Developing my first game! Lasers, Bugs and Bots! <a href="https://by-sjustino.itch.io/" target="_blank">Check the demo now!</a></p>
+<p>🧩 Developing my first game! Lasers, Bugs and Bots! Out sometime soon.
 <p>📫 How to reach me? silasjustino99@gmail.com</p>
 <br />
 
