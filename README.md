@@ -1,7 +1,7 @@
 ## 💫 About Me
 <p>🔭 Graduating in Software Engineering.</p>
-<p>🧩 Currently working with <b>Oracle APEX</b> </p>
-<p>🧩 Currently learning about <b>Flutter</b> and <b>Node.js</b></p>
+<p>🧩 Currently working with <b>.NET/Delphi</b> </p>
+<p>🧩 Currently learning about <b>Flutter</b></b></p>
 <p>🧩 Developing my first game! Lasers, Bugs and Bots! Out sometime soon.
 <p>📫 How to reach me? silasjustino99@gmail.com</p>
 <br />
@@ -9,7 +9,6 @@
 ## 💻 Tech Skills
 <p>
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 <br />
