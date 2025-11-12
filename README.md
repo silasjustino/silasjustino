@@ -1,8 +1,9 @@
 ## 💫 About Me
 <p>🔭 Graduating in Software Engineering.</p>
 <p>🧩 Currently working with <b>.NET/Delphi</b> </p>
-<p>🧩 Currently learning about <b>Flutter</b></b></p>
-<p>🧩 Developing my first game! Lasers, Bugs and Bots! Out sometime soon.
+<p>🧩 Currently learning about <b>Oracle APEX</b></b></p>
+<p>🧩 Developing my first game! Lasers, Bugs and Bots! Out sometime soon.</p>
+<p>🧩 Developing Cash Doc! Easy and Effective Finances Control. Out sometime soon.</p>
 <p>📫 How to reach me? silasjustino99@gmail.com</p>
 <br />
 
